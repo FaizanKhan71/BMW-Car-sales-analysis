@@ -73,6 +73,14 @@
       border-radius: 6px;
       box-shadow: 0 0 8px rgba(0, 198, 255, 0.15);
     }
+
+    /* Image wrapper to center images */
+    .image-center {
+      display: flex;
+      justify-content: center;
+      margin: 0.8rem 0 1.4rem 0;
+    }
+
     /* Images */
     img {
       max-width: 100%;
@@ -80,8 +88,6 @@
       border-radius: 12px;
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
       transition: transform 0.3s ease;
-      display: block;
-      margin: 0.8rem auto 1.4rem auto;
       object-fit: contain;
       max-height: 400px;
     }
@@ -131,6 +137,8 @@
       border-radius: 14px;
       box-shadow: 0 8px 24px rgba(0, 198, 255, 0.35);
       overflow: hidden;
+      color: #d0d8e8; /* lighter font color for table */
+      font-weight: 500;
     }
     thead th {
       background: #00c6ff;
@@ -143,9 +151,9 @@
     }
     tbody td {
       padding: 14px 20px;
-      color: #cbd5e1;
+      color: #cbd5e1cc; /* light with slight transparency */
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-      transition: background 0.3s ease;
+      transition: background 0.3s ease, color 0.3s ease;
     }
     tbody tr:hover td {
       background: rgba(0, 198, 255, 0.15);
@@ -273,29 +281,35 @@
 
   <section>
     <h2>📸 Dashboard Preview</h2>
-    <img
-      src="https://github.com/user-attachments/assets/a7b08dab-720b-41f4-b4fd-0a215672034d"
-      alt="Dashboard Preview"
-      loading="lazy"
-      width="900"
-      height="450"
-    />
+    <div class="image-center">
+      <img
+        src="https://github.com/user-attachments/assets/a7b08dab-720b-41f4-b4fd-0a215672034d"
+        alt="Dashboard Preview"
+        loading="lazy"
+        width="900"
+        height="450"
+      />
+    </div>
     <h3>🌍 Sales Overview</h3>
-    <img
-      src="https://github.com/user-attachments/assets/54d6dbfd-9540-4915-8c40-1e4366c8c68c"
-      alt="Sales Overview"
-      loading="lazy"
-      width="900"
-      height="450"
-    />
+    <div class="image-center">
+      <img
+        src="https://github.com/user-attachments/assets/54d6dbfd-9540-4915-8c40-1e4366c8c68c"
+        alt="Sales Overview"
+        loading="lazy"
+        width="900"
+        height="450"
+      />
+    </div>
     <h3>📊 Model Performance</h3>
-    <img
-      src="https://github.com/user-attachments/assets/f09f795d-300d-4971-8b07-ff6d64fefd7e"
-      alt="Model Performance"
-      loading="lazy"
-      width="900"
-      height="450"
-    />
+    <div class="image-center">
+      <img
+        src="https://github.com/user-attachments/assets/f09f795d-300d-4971-8b07-ff6d64fefd7e"
+        alt="Model Performance"
+        loading="lazy"
+        width="900"
+        height="450"
+      />
+    </div>
   </section>
 
   <section>
