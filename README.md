@@ -105,8 +105,8 @@ Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for detai
 **Faizan** — Data Analytics & Power BI Professional
 Specialized in **SQL, Power BI, Python, and Automotive Data Solutions**
 
-📬 [Email](mailto:fk9822647@gmail.com)
-💼 [GitHub](https://github.com/Faizan-26079)
+📬 [Email](mailto:faizankhanofficial71@gmail.com)
+💼 [GitHub](https://faizankhan71.github.io/)
 🌐 [Portfolio](https://your-portfolio-link.com)
 📱 +91-8459414569
 
