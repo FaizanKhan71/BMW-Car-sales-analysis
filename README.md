@@ -107,7 +107,7 @@ Specialized in **SQL, Power BI, Python, and Automotive Data Solutions**
 
 📬 [Email](mailto:faizankhanofficial71@gmail.com)
 💼 [GitHub](https://faizankhan71.github.io/)
-🌐 [Portfolio](https://your-portfolio-link.com)
+🌐 [Portfolio](https://faizankhan71.github.io/BMW_Global_Sales_and_EV_Performance_Insights/)
 📱 +91-8459414569
 
 ---
