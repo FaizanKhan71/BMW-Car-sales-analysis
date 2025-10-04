@@ -117,4 +117,4 @@ Specialized in **SQL, Power BI, Python, and Automotive Data Solutions**
 > **How can this BMW Sales Analytics Dashboard help transform sales strategies and boost decision-making at scale?**
 
 Feel free to share ideas, raise issues, or contribute enhancements.
-📧 **Email**: [fk9822647@gmail.com](mailto:fk9822647@gmail.com)
+📧 **Email**: [faizankhanofficial71@gmail.com](mailto:faizankhanofficial71@gmail.com)
